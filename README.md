@@ -11,18 +11,15 @@ An interactive Python Quiz Application with different Quiz Sections and Command 
 * Score Calculation Automatically 
 * Feedback for Correct/Incorrect Answers 
  
-## Project Structure 
- 
-
-text 
-QuizProject/ 
-│ 
+## Project Structure
+```text
+QuizProject/
 ├── main.py 
 ├── tv_quiz.py 
 ├── cricket_quiz.py 
 ├── maths_quiz.py 
 └── README.md
- 
+``` 
  
 ## Technologies Used 
  
